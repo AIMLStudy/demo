@@ -1,0 +1,18 @@
+Project management function
+
+Sample selection against test
+Work flow
+Scheduling test level or Test Request level
+
+Report: Manual report preparation.  
+Sample grid and graph in python
+
+Report generation by python script
+Sample data preparation
+Cycle number add into test
+
+
+Schedule:
+Demo 1:  DVP  : 15th Sept
+Demo 2:  Workflow
+Demo 3: Report Generation
